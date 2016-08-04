@@ -46,7 +46,7 @@
 
 <h2>viewport</h2>
 <pre><code>
-	<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	&lt;meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" /&gt;
 
 	在移动开发时我们都会有上面这段代码
 
